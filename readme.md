@@ -8,7 +8,7 @@
 - Алгоритм [Reconciliation](https://ru.reactjs.org/docs/reconciliation.html)
 - Новые фичи React, начиная с React 16 по 18 ([React docs](https://reactjs.org))
 - React Fiber engine (по моему уже не очень хорошо говорить что главная фича React это Virtual DOM, на мой взгляд это все-таки Fiber если речь про 16 версию и выше)
-- что завезли в реакт начиная с 16 версии
+- что [завезли](https://github.com/facebook/react/blob/main/CHANGELOG.md) в реакт начиная с 16 версии
 - Redux Toolkit, Redux Toolkit Query (особенно метод createApi)
 - react-query
 
