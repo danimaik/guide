@@ -11,6 +11,5 @@
 - Redux Toolkit, Redux Toolkit Query (особенно метод createApi)
 - react-query
 
-#### For me only
-
-This is the *[Markdown Guide](https://www.markdownguide.org)*.
+###### For me only
+###### This is the *[Markdown Guide](https://www.markdownguide.org)*.
