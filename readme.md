@@ -94,6 +94,8 @@ console.log("Message 6");
 
 ### React
 
+- отличие componentDidMount, useEffect и useLayoutEffect
+- React.memo
 - Алгоритм [Reconciliation](https://ru.reactjs.org/docs/reconciliation.html)
 - Новые фичи React, начиная с React 16 по 18 ([React docs](https://reactjs.org)) (делаете особый акцент на auto-batching, useTransition и useDeferredValue), что [завезли](https://github.com/facebook/react/blob/main/CHANGELOG.md) в реакт начиная с 16 версии
 - React Fiber engine (по-моему уже не очень хорошо говорить что главная фича React это Virtual DOM, на мой взгляд это все-таки Fiber если речь про 16 версию и выше) [link](https://blog.logrocket.com/deep-dive-react-fiber/#what-react-fiber) - обычно не нужно глубоко понимать а достаточно знать что это такое
