@@ -1,4 +1,4 @@
-# Мой гайд по финальному ревью
+# Мой гайд по прохождению собеседований
 ##### Возможно я его буду дополнять
 
 - Что такое [API](https://superbwebsitebuilders.com/ru/chto-takoe-api-prostymi-slovami/). Привести [пример](https://ant.design/components/button/#API) API, для взаимодействия с которыми не нужно запрашивать данные с сервера
