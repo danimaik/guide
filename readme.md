@@ -21,6 +21,7 @@
 - react-query (чтоб получить оффер должно хватить Redux Toolkit Query, надо просто знать что это такое)
 - CORS, погуглить что такое preflight запрос
 - [Критические этапы рендеринга](https://developer.mozilla.org/ru/docs/Web/Performance/Critical_rendering_path)
+- [Webpack](https://habr.com/ru/post/524260/)
 
 ###### For me only
 ###### This is the *[Markdown Guide](https://www.markdownguide.org)*.
