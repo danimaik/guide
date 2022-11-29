@@ -92,9 +92,10 @@ setTimeout(() => console.log("Message 5"));
 console.log("Message 6");
 ```
 
-### TypeScript
+### TypeScript (если хочется указать его в резюме)
 
 - Типы данных
 - Дженерики, union-types
 - Utility types (особенно Record, ReturnType, Partial)
 - Как написать подобие Record при помощи interface
+- (Дополнительно) infer
