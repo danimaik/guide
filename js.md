@@ -1,6 +1,7 @@
 ### JS
 
 - [замыкание](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
+- какие новые фичи вышли в ECMAScript 2022
 - методы массивов, нужно сказать какие мутируют, какие нет
 - разница между ключами Object.keys и ключами из цикла for in
 - разница между var, let и const
